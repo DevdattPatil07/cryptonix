@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptonix/static/css/main.ae907212.css",
+    "main.js": "/cryptonix/static/js/main.db9a058a.js",
+    "index.html": "/cryptonix/index.html",
+    "main.ae907212.css.map": "/cryptonix/static/css/main.ae907212.css.map",
+    "main.db9a058a.js.map": "/cryptonix/static/js/main.db9a058a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae907212.css",
+    "static/js/main.db9a058a.js"
+  ]
+}
