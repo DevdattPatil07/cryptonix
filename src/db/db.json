@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": 1664459240782,
+      "email": "dev",
+      "hashedPassword": "$2a$10$cBAgfSl87bwPL6Qr/PY0W.kl3szRrN5p304Y.nywaZUeA34IZVpMm"
+    },
+    {
+      "id": 1664465718877,
+      "email": "de",
+      "hashedPassword": "$2a$10$ToXVfD3zjY0VTpMnSRk9NuyuBHGoPGdehR3cq/ors9bcvx2..KzYS"
+    },
+    {
+      "id": 1664465795208,
+      "email": "d",
+      "hashedPassword": "$2a$10$YZmZyC.Nq6.R3VoexOQRb.5J0P4bL3RALE4EqXNSUilivoX1ZIMqe"
+    }
+  ]
+}
